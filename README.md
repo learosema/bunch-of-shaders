@@ -17,8 +17,8 @@ Please fork, add some fragment shaders, and send a pull request <3.
 Instructions:
 * Put your shader in the shaders directory. No subdirs. 
 * Name it `your-shader-name.frag`, 
-* add a README by adding a `README.md`
-* add your name to `AUTHORS.md`
+* add a README by adding a `your-shader-name.md`
+* add your name to `AUTHORS`
 
 
 ## Predefined uniforms
