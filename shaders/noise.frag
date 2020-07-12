@@ -1,5 +1,6 @@
 precision highp float;
 uniform float time;
+uniform vec2 resolution;
 
 // normalize coords and correct for aspect ratio
 vec2 normalizeScreenCoords()
