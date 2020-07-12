@@ -1,6 +1,7 @@
 
 precision highp float;
 uniform float time;
+uniform vec2 resolution;
 
 vec2 coords() {
   float vmin = min(resolution.x, resolution.y);

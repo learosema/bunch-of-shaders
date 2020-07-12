@@ -1,6 +1,8 @@
 precision highp float;
 
 uniform float time;
+uniform vec2 resolution;
+
 const float PI = 3.141592654;
 const float DEG = PI / 180.0;
 
